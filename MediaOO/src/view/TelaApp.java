@@ -3,6 +3,8 @@ package view;
 import javax.swing.*;
 import java.awt.event.*;
 
+// Média faltante na P2
+
 public class TelaApp implements ActionListener{
 	JLabel msgTrab1, msgTrab2, msgTrab3, msgP1, msgP2, msgMedia;
 	JTextField trab1, trab2, trab3, p1, p2, media;

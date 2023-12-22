@@ -8,6 +8,8 @@ import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
 
+// Cenários para menções
+
 public class TelaAppP2 implements ActionListener{
 	JLabel msgTrab1, msgTrab2, msgTrab3, msgP1, msgP2, msgMedia, msgNotaNecessariaMM, msgNotaNecessariaMS, msgNotaNecessariaSS, msgErroMM, msgErroMS, msgErroSS;
 	JTextField trab1, trab2, trab3, p1, p2, media, notaNecessariaMM, notaNecessariaMS, notaNecessariaSS;
